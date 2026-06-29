@@ -1,25 +1,29 @@
 {
   "updated": "2026-06-11",
   "videos": [
-      {
+    {
+      "id": "Si0dXlobFMo",
+      "title": "Bukas Bayan - June 27, 2026"
+    },
+    {
       "id": "SzpMkH7cRok",
-      "title": "Bukas Bayan (June 20, 2026)"
+      "title": "Bukas Bayan - June 20, 2026"
     },
     {
       "id": "6JkVW4GN_TM",
-      "title": "Bukas Bayan (June 13, 2026)"
+      "title": "Bukas Bayan - June 13, 2026"
     },
      {
       "id": "i8qGm8yo8FE",
-      "title": "Bukas Bayan (June 06, 2026)"
+      "title": "Bukas Bayan - June 06, 2026"
     },
     {
       "id": "PncDAblqcvY",
-      "title": "Bukas Bayan (May 30, 2026)"
+      "title": "Bukas Bayan - May 30, 2026"
     },
     {
       "id": "ksCIrT_G0jI",
-      "title": "Bukas Bayan (May 30, 2026)"
+      "title": "Bukas Bayan - May 30, 2026"
     }
   ]
 }
