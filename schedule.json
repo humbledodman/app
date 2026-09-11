@@ -2,15 +2,47 @@
   {
     "title": "Sunday Smooth Jam",
     "host": "Playlist",
-    "days": [5],
+    "days": [0],
     "startTime": "05:00",
     "endTime": "22:00",
-    "image": "pics/sunday-smooth-jam.jpeg"
+    "image": "pics/prog/sunday-smooth-jam.jpeg"
+  },
+  {
+    "title": "Sunny Side Up",
+    "host": "DJ Don Marco",
+    "days": [1, 5],
+    "startTime": "05:00",
+    "endTime": "08:00",
+    "image": "pics/prog/sunny-side-up.jpg"
+  },
+  {
+    "title": "Sunny Side Up",
+    "host": "DJ Don Marco",
+    "days": [2, 4],
+    "startTime": "05:00",
+    "endTime": "09:00",
+    "image": "pics/prog/sunny-side-up.jpg"
+  },
+  {
+    "title": "Abak Na Balen",
+    "host": "Paulo G. & Deng",
+    "days": [1, 5],
+    "startTime": "08:00",
+    "endTime": "09:00",
+    "image": "pics/prog/abak-na-balen.jpg"
+  },
+  {
+    "title": "Talakayan Ngayon",
+    "host": "Perry, Boy & Albert",
+    "days": [1, 2, 3, 4, 5],
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "image": "pics/prog/talakayan-ngayon.jpg"
   },
   {
     "title": "RW 95.1 FM",
     "host": "Live Stream",
-    "days": [0, 1, 2, 3, 4, 6],
+    "days": [1, 2, 3, 4, 6],
     "startTime": "00:00",
     "endTime": "23:59",
     "isDefault": true,
