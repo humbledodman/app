@@ -1,11 +1,11 @@
 [
   {
-    "title": "Afternoon Ratsada",
-    "host": "Alex",
-    "days": [1, 2, 3, 4, 5],
-    "startTime": "16:00",
-    "endTime": "18:00",
-    "image": "pics/vids2/afternoon-ratsada.jpg"
+    "title": "Sunday Smooth Jam",
+    "host": "",
+    "days": [0],
+    "startTime": "05:00",
+    "endTime": "22:00",
+    "image": "pics/sunday-smooth-jam.jpeg"
   },
   {
     "title": "RW 95.1 FM",
