@@ -10,7 +10,7 @@
   {
     "title": "RW 95.1 FM",
     "host": "Live Stream",
-    "days": [0, 1, 2, 3, 4, 5, 6],
+    "days": [0, 1, 2, 3, 4, 6],
     "startTime": "00:00",
     "endTime": "23:59",
     "isDefault": true,
